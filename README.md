@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ömer Faruk ÖNCEL.
 - 👀 I’m interested in "Cryptography" and "Cryptanalysis".
-- 🌱 I’m currently learning "Post Quantum Cryptosystems".
 - 📫 How to reach me --> omr.oncl.07@gmail.com
 
 <!---
