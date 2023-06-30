@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ömer Faruk ÖNCEL.
-- 👀 I’m interested in "Cryptography" and "Cryptanalysis".
+- 👀 I’m interested in "Cryptography" and "Cryptanalysis". I also develop websites, software, applications etc.
 - 📫 How to reach me --> omr.oncl.07@gmail.com
 
 <!---
