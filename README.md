@@ -1,6 +1,6 @@
 # Hi, I'm Ömer Faruk Öncel 👋
 
-I am an **Embedded Software Engineer** specializing in IoT networks, smart-building protocols (KNX, Zigbee), and applied cryptography. I recently graduated as the **Valedictorian** of Antalya Bilim University with a Double Major in Computer Engineering & Electrical/Electronics Engineering.
+I am an **Embedded Software Engineer** specializing in IoT networks, smart-building protocols (KNX, Zigbee), and applied cryptography. I graduated as the **Valedictorian** of Antalya Bilim University with a Double Major in Computer Engineering & Electrical/Electronics Engineering.
 
 ### 🛠 Technical Arsenal
 - **Languages:** C/C++, Python, C#, Java, MATLAB, SQL
